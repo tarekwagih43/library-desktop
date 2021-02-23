@@ -1,0 +1,13 @@
+E:\school\liberary\bin\Debug\lib.mdb
+E:\school\liberary\bin\Debug\liberary.exe.config
+E:\school\liberary\bin\Debug\liberary.exe
+E:\school\liberary\bin\Debug\liberary.pdb
+E:\school\liberary\obj\Debug\liberary.csprojAssemblyReference.cache
+E:\school\liberary\obj\Debug\liberary.Login.resources
+E:\school\liberary\obj\Debug\liberary.Properties.Resources.resources
+E:\school\liberary\obj\Debug\liberary.csproj.GenerateResource.cache
+E:\school\liberary\obj\Debug\liberary.csproj.CoreCompileInputs.cache
+E:\school\liberary\obj\Debug\liberary.exe
+E:\school\liberary\obj\Debug\liberary.pdb
+E:\school\liberary\obj\Debug\liberary.main.resources
+E:\school\liberary\obj\Debug\liberary.AddBook.resources
